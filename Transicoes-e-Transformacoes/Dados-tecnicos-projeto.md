@@ -15,3 +15,5 @@ Karma + Jasmine: Para testes unitários no frontend (Angular).
 Swagger: Para documentação de APIs.
 Sass: Para estilos mais avançados e organizados no frontend.
 Essas tecnologias ajudarão a tornar seu projeto mais robusto, escalável e fácil de manter.
+
+#test
